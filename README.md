@@ -7,7 +7,7 @@ The Power BI dashboard analyzes household electricity consumption from December 
 
 ### Dashboard Preview
 
-![Household Energy Consumption Analytics Dashboard](data/sql/notebooks/dashboard/reports/energy_dashboard.png)
+![Household Energy Consumption Analytics Dashboard](reports/energy_dashboard.png)
 
 ### Key Insights
 - **Average active power:** 1.092 kW.
